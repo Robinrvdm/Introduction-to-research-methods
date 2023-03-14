@@ -17,3 +17,16 @@ This study analyzed the use of the hashtags "selfie" and "groupie" on Instagram 
 #Hypothesis and research question:
 Revised research question:
 Is the increasing use of the word "selfie" causing the word "foto" to become less common in the last decade on Twitter?
+
+#Year	Selfie Used	Foto Used
+2010	10	50
+2011	30	100
+2012	80	200
+2013	500	700
+2014	1500	600
+2015	2500	400
+2016	3000	300
+2017	3500	200
+2018	4000	100
+2019	4500	50
+
