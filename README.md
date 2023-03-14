@@ -33,3 +33,9 @@ Is the increasing use of the word "selfie" causing the word "photo" to become le
 
 Hypothesis: The increasing use of the word "selfie" is causing the word "photo" to become less common on Twitter in the last decade, as users prefer to use the more modern and specific term for self-portraits taken with a mobile device, leading to a decline in the use of the traditional word for "photo" in social media conversations.
 
+
+Correct APA use of studies:
+
+Hwang, H. L., & Chen, H. W. (2020). What Makes a Selfie Worth Sharing? Investigating the Relationship between Selfie Characteristics and Social Media Engagement. Journal of Interactive Advertising, 20(1), 63-78. https://doi.org/10.1080/15252019.2020.1701974
+
+Livina, A., & Trofimova, K. (2019). "Selfie" and "Groupie": A Linguistic Analysis of Instagram Hashtags. Communication Research Reports, 36(4), 261-270. https://doi.org/10.1080/08824096.2019.1665342
