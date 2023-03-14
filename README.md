@@ -14,14 +14,16 @@ The authors found that the hashtag "selfie" was the most frequently used, follow
 #- "Selfie" and "Groupie": A Linguistic Analysis of Instagram Hashtags by Anna Livina and Katherine Trofimova (2019)
 This study analyzed the use of the hashtags "selfie" and "groupie" on Instagram over a period of two years (2016-2018). The authors found that the frequency of the hashtag "selfie" decreased over time, while the frequency of the hashtag "groupie" increased. They suggested that this shift reflected a cultural change in which people were increasingly interested in capturing group experiences rather than individual ones.
 
-#methods:
-
-Method:
+#method:
 
 Dataset: The dataset used for this research question would be a random sample of public tweets from the last decade (2010-2020) that contain the words "selfie" and "foto" (or its equivalent in different languages).
+
 Sampling method: A random sample of tweets would be obtained by using Twitter's API, which allows access to a random sample of public tweets from a specific time range.
+
 Contingency matrix: A contingency matrix would be created to analyze the frequency and association between the use of the words "selfie" and "foto" on Twitter in the last decade. The matrix would have "selfie" and "foto" as rows and columns, respectively, and the cells would contain the count of tweets that use both words, only "selfie," only "foto," or none of the words.
+
 Statistical analysis: Chi-square test of independence would be conducted on the contingency matrix to test the hypothesis that the increasing use of "selfie" is causing a decrease in the use of "foto" on Twitter in the last decade. The statistical analysis would provide a p-value to determine whether the observed association between the two words is statistically significant or due to chance.
+
 Interpretation: Based on the results of the statistical analysis, the hypothesis would either be accepted or rejected, and conclusions would be drawn regarding the relationship between the increasing use of "selfie" and the decreasing use of "foto" on Twitter in the last decade.
 
 #Hypothesis and research question:
