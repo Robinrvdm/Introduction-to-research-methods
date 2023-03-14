@@ -14,7 +14,7 @@ The authors found that the hashtag "selfie" was the most frequently used, follow
 #- "Selfie" and "Groupie": A Linguistic Analysis of Instagram Hashtags by Anna Livina and Katherine Trofimova (2019)
 This study analyzed the use of the hashtags "selfie" and "groupie" on Instagram over a period of two years (2016-2018). The authors found that the frequency of the hashtag "selfie" decreased over time, while the frequency of the hashtag "groupie" increased. They suggested that this shift reflected a cultural change in which people were increasingly interested in capturing group experiences rather than individual ones.
 
-#method:
+#Method:
 
 Dataset: The dataset used for this research question would be a random sample of public tweets from the last decade (2010-2020) that contain the words "selfie" and "foto" (or its equivalent in different languages).
 
