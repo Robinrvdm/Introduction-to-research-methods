@@ -7,11 +7,11 @@ This study examines the impact of the word "selfie" on the frequency of the word
 
 #There are a few studies that have done similar reasons, two will be listed below:
 
-#- What Makes a Selfie Worth Sharing? Investigating the Relationship between Selfie Characteristics and Social Media Engagement by Han Lin Hwang and Hui Wen Chen (2020):
+- What Makes a Selfie Worth Sharing? Investigating the Relationship between Selfie Characteristics and Social Media Engagement by Han Lin Hwang and Hui Wen Chen (2020):
 The authors analyzed 1,640 selfies posted on Instagram over a period of six months, and compared the use of the hashtag "selfie" to other related hashtags such as "mirror selfie," "beauty selfie," and "gym selfie."
 The authors found that the hashtag "selfie" was the most frequently used, followed by "mirror selfie" and "beauty selfie."
 
-#- "Selfie" and "Groupie": A Linguistic Analysis of Instagram Hashtags by Anna Livina and Katherine Trofimova (2019)
+- "Selfie" and "Groupie": A Linguistic Analysis of Instagram Hashtags by Anna Livina and Katherine Trofimova (2019)
 This study analyzed the use of the hashtags "selfie" and "groupie" on Instagram over a period of two years (2016-2018). The authors found that the frequency of the hashtag "selfie" decreased over time, while the frequency of the hashtag "groupie" increased. They suggested that this shift reflected a cultural change in which people were increasingly interested in capturing group experiences rather than individual ones.
 
 #Method:
@@ -27,6 +27,7 @@ Statistical analysis: Chi-square test of independence would be conducted on the 
 Interpretation: Based on the results of the statistical analysis, the hypothesis would either be accepted or rejected, and conclusions would be drawn regarding the relationship between the increasing use of "selfie" and the decreasing use of "foto" on Twitter in the last decade.
 
 #Hypothesis and research question:
+
 Revised research question:
 Is the increasing use of the word "selfie" causing the word "photo" to become less common in the last decade on Twitter?
 
