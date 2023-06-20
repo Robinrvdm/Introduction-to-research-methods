@@ -1,0 +1,17 @@
+This was the code used for the gathering of the data, the 2016 in the command is switched to 2014, 2015 etc to get all the years
+
+2014: zless /net/corpora/twitter2/Tweets/2014/{01..12}/2014{01..12}*.out.gz | /net/corpora/twitter2/tools/tweet2tab text | grep -wE 'heit|mem|pake|beppe' | awk -F '\t' '{count = gsub(/heit|mem|pake|beppe/, ""); total += count} END {print "Total Sentences:", NR; print "Occurrences:", total}'
+
+2015: zless /net/corpora/twitter2/Tweets/2015/{01..12}/2015{01..12}*.out.gz | /net/corpora/twitter2/tools/tweet2tab text | grep -wE 'heit|mem|pake|beppe' | awk -F '\t' '{count = gsub(/heit|mem|pake|beppe/, ""); total += count} END {print "Total Sentences:", NR; print "Occurrences:", total}'
+
+2016: zless /net/corpora/twitter2/Tweets/2016/{01..12}/2016{01..12}*.out.gz | /net/corpora/twitter2/tools/tweet2tab text | grep -wE 'heit|mem|pake|beppe' | awk -F '\t' '{count = gsub(/heit|mem|pake|beppe/, ""); total += count} END {print "Total Sentences:", NR; print "Occurrences:", total}'
+
+2017: zless /net/corpora/twitter2/Tweets/2017/{01..12}/2017{01..12}*.out.gz | /net/corpora/twitter2/tools/tweet2tab text | grep -wE 'heit|mem|pake|beppe' | awk -F '\t' '{count = gsub(/heit|mem|pake|beppe/, ""); total += count} END {print "Total Sentences:", NR; print "Occurrences:", total}'
+
+2018: zless /net/corpora/twitter2/Tweets/2018/{01..12}/2018{01..12}*.out.gz | /net/corpora/twitter2/tools/tweet2tab text | grep -wE 'heit|mem|pake|beppe' | awk -F '\t' '{count = gsub(/heit|mem|pake|beppe/, ""); total += count} END {print "Total Sentences:", NR; print "Occurrences:", total}'
+
+2019: zless /net/corpora/twitter2/Tweets/2019/{01..12}/2019{01..12}*.out.gz | /net/corpora/twitter2/tools/tweet2tab text | grep -wE 'heit|mem|pake|beppe' | awk -F '\t' '{count = gsub(/heit|mem|pake|beppe/, ""); total += count} END {print "Total Sentences:", NR; print "Occurrences:", total}'
+
+2020: zless /net/corpora/twitter2/Tweets/2020/{01..12}/2020{01..12}*.out.gz | /net/corpora/twitter2/tools/tweet2tab text | grep -wE 'heit|mem|pake|beppe' | awk -F '\t' '{count = gsub(/heit|mem|pake|beppe/, ""); total += count} END {print "Total Sentences:", NR; print "Occurrences:", total}'
+
+2021: zless /net/corpora/twitter2/Tweets/2021/{01..12}/2021{01..12}*.out.gz | /net/corpora/twitter2/tools/tweet2tab text | grep -wE 'heit|mem|pake|beppe' | awk -F '\t' '{count = gsub(/heit|mem|pake|beppe/, ""); total += count} END {print "Total Sentences:", NR; print "Occurrences:", total}'
