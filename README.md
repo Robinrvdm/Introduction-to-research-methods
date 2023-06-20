@@ -1,41 +1,11 @@
-# Introduction-to-research-methods
+Introduction:
+In today's digital society, platforms like Twitter, Facebook, and WhatsApp pose both threats and opportunities for minority languages like Frisian. Previous research highlights the potential of digital technologies to empower linguistic communities and revive endangered languages. However, the dominance of a few languages online and the informal nature of social media communication raise concerns. This study aims to investigate the usage of Frisian on Twitter and hypothesizes a decrease over time. By quantitatively analyzing the frequency of specific Frisian words, we provide empirical insights into the trends of the Frisian language in the digital age.
 
-#Abstract:
-This study examines the impact of the word "selfie" on the frequency of the word "photo" on Twitter over time. Using the Twitter API, we collected tweets containing both words from January 1, 2010, to December 31, 2019, and analyzed the data using regression analysis. Our findings indicate that the use of the word "selfie" has increased over time, while the use of the word "photo" has decreased. Furthermore, we found a significant negative correlation between the use of the word "selfie" and the use of the word "photo" on Twitter. These results suggest that the increasing popularity of the term "selfie" has led to a decline in the use of the term "photo" on Twitter over time. This study contributes to the understanding of how language use is affected by cultural trends and social media.
+Related Work:
+Previous studies have examined Frisian language use on social media platforms, particularly among teenagers. They highlight the informal nature of social media writing and the potential influence of these platforms on language choice. However, the frequency of Frisian language use over time has not been extensively explored.
 
-#Theoretical background:
+Data and Analysis:
+The RUG Twitter corpus, containing tweets from 2014 to 2021, was analyzed. The frequency of occurrence of Frisian words was examined using command-line arguments. The analysis revealed fluctuating trends in Frisian occurrence over the years, with a subsequent increase in recent years.
 
-#There are a few studies that have done similar reasons, two will be listed below:
-
-- What Makes a Selfie Worth Sharing? Investigating the Relationship between Selfie Characteristics and Social Media Engagement by Han Lin Hwang and Hui Wen Chen (2020):
-The authors analyzed 1,640 selfies posted on Instagram over a period of six months, and compared the use of the hashtag "selfie" to other related hashtags such as "mirror selfie," "beauty selfie," and "gym selfie."
-The authors found that the hashtag "selfie" was the most frequently used, followed by "mirror selfie" and "beauty selfie."
-
-- "Selfie" and "Groupie": A Linguistic Analysis of Instagram Hashtags by Anna Livina and Katherine Trofimova (2019)
-This study analyzed the use of the hashtags "selfie" and "groupie" on Instagram over a period of two years (2016-2018). The authors found that the frequency of the hashtag "selfie" decreased over time, while the frequency of the hashtag "groupie" increased. They suggested that this shift reflected a cultural change in which people were increasingly interested in capturing group experiences rather than individual ones.
-
-#Method:
-
-Dataset: The dataset used for this research question would be a random sample of public tweets from the last decade (2010-2020) that contain the words "selfie" and "photo" (or its equivalent in different languages).
-
-Sampling method: A random sample of tweets would be obtained by using Twitter's API, which allows access to a random sample of public tweets from a specific time range.
-
-Contingency matrix: A contingency matrix would be created to analyze the frequency and association between the use of the words "selfie" and "photo" on Twitter in the last decade. The matrix would have "selfie" and "photo" as rows and columns, respectively, and the cells would contain the count of tweets that use both words, only "selfie," only "photo," or none of the words.
-
-Statistical analysis: Chi-square test of independence would be conducted on the contingency matrix to test the hypothesis that the increasing use of "selfie" is causing a decrease in the use of "photo" on Twitter in the last decade. The statistical analysis would provide a p-value to determine whether the observed association between the two words is statistically significant or due to chance.
-
-Interpretation: Based on the results of the statistical analysis, the hypothesis would either be accepted or rejected, and conclusions would be drawn regarding the relationship between the increasing use of "selfie" and the decreasing use of "photo" on Twitter in the last decade.
-
-#Hypothesis and research question:
-
-Revised research question:
-Is the increasing use of the word "selfie" causing the word "photo" to become less common in the last decade on Twitter?
-
-Hypothesis: The increasing use of the word "selfie" is causing the word "photo" to become less common on Twitter in the last decade, as users prefer to use the more modern and specific term for self-portraits taken with a mobile device, leading to a decline in the use of the traditional word for "photo" in social media conversations.
-
-
-Correct APA use of studies:
-
-Hwang, H. L., & Chen, H. W. (2020). What Makes a Selfie Worth Sharing? Investigating the Relationship between Selfie Characteristics and Social Media Engagement. Journal of Interactive Advertising, 20(1), 63-78. https://doi.org/10.1080/15252019.2020.1701974
-
-Livina, A., & Trofimova, K. (2019). "Selfie" and "Groupie": A Linguistic Analysis of Instagram Hashtags. Communication Research Reports, 36(4), 261-270. https://doi.org/10.1080/08824096.2019.1665342
+Conclusion:
+The findings suggest a potential revival or increased utilization of Frisian on Twitter. This study contributes to our understanding of minority language preservation in the digital age. Further research can explore additional aspects of Frisian language use and investigate social factors influencing language choice on social media platforms.
